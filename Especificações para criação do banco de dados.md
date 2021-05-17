@@ -12,4 +12,4 @@ cursor.execute("CREATE TABLE petro (preco integer, data date)")
 cursor.execute("INSERT INTO b3sa VALUES('"+dadosb+"','"+meta_dados_b+"')
 cursor.execute("INSERT INTO petro VALUES('"+dadosp+"','"+meta_dados_p+"')
 
-Consigui criar a estrutura do banco, porém tive dificuldade de fazer a interação com os dados.
+Consegui criar  toda a estrutura do banco de dados porém tive dificuldade em fazer a interação com os dados, estou estudado mais SQLite para fazer essa terefa.
